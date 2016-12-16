@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MovieReviewStarterKit</id>
+    <version>1.0.0</version>
+    <authors>MovieReviewStarterKit</authors>
+    <owners>MovieReviewStarterKit</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp1.0">
+        <dependency id="Microsoft.NETCore.App" version="1.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.NET.Sdk.Web" version="1.0.0-alpha-20161104-2-112" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Diagnostics" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Mvc" version="1.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Razor.Tools" version="1.0.0-preview2-final" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Routing" version="1.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Server.IISIntegration" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Server.Kestrel" version="1.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.StaticFiles" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.EnvironmentVariables" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Json" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Logging" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Logging.Console" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Logging.Debug" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Options.ConfigurationExtensions" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.VisualStudio.Web.BrowserLink.Loader" version="14.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Authentication.Cookies" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Identity.EntityFrameworkCore" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="1.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer.Design" version="1.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.Tools" version="1.0.0-msbuild1-final" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.UserSecrets" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.VisualStudio.Web.CodeGeneration.Design" version="1.0.0-msbuild1-final" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\obj\Debug\netcoreapp1.0\MovieReviewStarterKit.dll" target="lib\netcoreapp1.0\MovieReviewStarterKit.dll" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\dist\_placeholder.txt" target="content\ClientApp\dist\_placeholder.txt" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\dist\_placeholder.txt" target="contentFiles\ClientApp\dist\_placeholder.txt" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Steps.txt" target="content\Steps.txt" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Steps.txt" target="contentFiles\Steps.txt" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Account\ConfirmEmail.cshtml" target="content\Views\Account\ConfirmEmail.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Account\ConfirmEmail.cshtml" target="contentFiles\Views\Account\ConfirmEmail.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Account\ExternalLoginConfirmation.cshtml" target="content\Views\Account\ExternalLoginConfirmation.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Account\ExternalLoginConfirmation.cshtml" target="contentFiles\Views\Account\ExternalLoginConfirmation.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Account\ExternalLoginFailure.cshtml" target="content\Views\Account\ExternalLoginFailure.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Account\ExternalLoginFailure.cshtml" target="contentFiles\Views\Account\ExternalLoginFailure.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Account\ForgotPassword.cshtml" target="content\Views\Account\ForgotPassword.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Account\ForgotPassword.cshtml" target="contentFiles\Views\Account\ForgotPassword.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Account\ForgotPasswordConfirmation.cshtml" target="content\Views\Account\ForgotPasswordConfirmation.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Account\ForgotPasswordConfirmation.cshtml" target="contentFiles\Views\Account\ForgotPasswordConfirmation.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Account\Lockout.cshtml" target="content\Views\Account\Lockout.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Account\Lockout.cshtml" target="contentFiles\Views\Account\Lockout.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Account\Login.cshtml" target="content\Views\Account\Login.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Account\Login.cshtml" target="contentFiles\Views\Account\Login.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Account\Register.cshtml" target="content\Views\Account\Register.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Account\Register.cshtml" target="contentFiles\Views\Account\Register.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Account\ResetPassword.cshtml" target="content\Views\Account\ResetPassword.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Account\ResetPassword.cshtml" target="contentFiles\Views\Account\ResetPassword.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Account\ResetPasswordConfirmation.cshtml" target="content\Views\Account\ResetPasswordConfirmation.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Account\ResetPasswordConfirmation.cshtml" target="contentFiles\Views\Account\ResetPasswordConfirmation.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Account\SendCode.cshtml" target="content\Views\Account\SendCode.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Account\SendCode.cshtml" target="contentFiles\Views\Account\SendCode.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Account\VerifyCode.cshtml" target="content\Views\Account\VerifyCode.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Account\VerifyCode.cshtml" target="contentFiles\Views\Account\VerifyCode.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Home\About.cshtml" target="content\Views\Home\About.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Home\About.cshtml" target="contentFiles\Views\Home\About.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Home\Contact.cshtml" target="content\Views\Home\Contact.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Home\Contact.cshtml" target="contentFiles\Views\Home\Contact.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Home\Index.cshtml" target="content\Views\Home\Index.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Home\Index.cshtml" target="contentFiles\Views\Home\Index.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Home\Index_old.cshtml" target="content\Views\Home\Index_old.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Home\Index_old.cshtml" target="contentFiles\Views\Home\Index_old.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Manage\AddPhoneNumber.cshtml" target="content\Views\Manage\AddPhoneNumber.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Manage\AddPhoneNumber.cshtml" target="contentFiles\Views\Manage\AddPhoneNumber.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Manage\ChangePassword.cshtml" target="content\Views\Manage\ChangePassword.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Manage\ChangePassword.cshtml" target="contentFiles\Views\Manage\ChangePassword.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Manage\Index.cshtml" target="content\Views\Manage\Index.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Manage\Index.cshtml" target="contentFiles\Views\Manage\Index.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Manage\ManageLogins.cshtml" target="content\Views\Manage\ManageLogins.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Manage\ManageLogins.cshtml" target="contentFiles\Views\Manage\ManageLogins.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Manage\SetPassword.cshtml" target="content\Views\Manage\SetPassword.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Manage\SetPassword.cshtml" target="contentFiles\Views\Manage\SetPassword.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Manage\VerifyPhoneNumber.cshtml" target="content\Views\Manage\VerifyPhoneNumber.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Manage\VerifyPhoneNumber.cshtml" target="contentFiles\Views\Manage\VerifyPhoneNumber.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Shared\Error.cshtml" target="content\Views\Shared\Error.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Shared\Error.cshtml" target="contentFiles\Views\Shared\Error.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Shared\_Layout.cshtml" target="content\Views\Shared\_Layout.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Shared\_Layout.cshtml" target="contentFiles\Views\Shared\_Layout.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Shared\_Layout_old.cshtml" target="content\Views\Shared\_Layout_old.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Shared\_Layout_old.cshtml" target="contentFiles\Views\Shared\_Layout_old.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Shared\_LoginPartial.cshtml" target="content\Views\Shared\_LoginPartial.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Shared\_LoginPartial.cshtml" target="contentFiles\Views\Shared\_LoginPartial.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Shared\_ValidationScriptsPartial.cshtml" target="content\Views\Shared\_ValidationScriptsPartial.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\Shared\_ValidationScriptsPartial.cshtml" target="contentFiles\Views\Shared\_ValidationScriptsPartial.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\_ViewImports.cshtml" target="content\Views\_ViewImports.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\_ViewImports.cshtml" target="contentFiles\Views\_ViewImports.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\_ViewStart.cshtml" target="content\Views\_ViewStart.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Views\_ViewStart.cshtml" target="contentFiles\Views\_ViewStart.cshtml" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\web.config" target="content\web.config" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\web.config" target="contentFiles\web.config" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\appsettings.json" target="content\appsettings.json" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\appsettings.json" target="contentFiles\appsettings.json" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\bower.json" target="content\bower.json" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\bower.json" target="contentFiles\bower.json" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\bundleconfig.json" target="content\bundleconfig.json" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\bundleconfig.json" target="contentFiles\bundleconfig.json" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\tsconfig.json" target="content\ClientApp\tsconfig.json" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\tsconfig.json" target="contentFiles\ClientApp\tsconfig.json" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\package.json" target="content\package.json" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\package.json" target="contentFiles\package.json" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Properties\launchSettings.json" target="content\Properties\launchSettings.json" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\Properties\launchSettings.json" target="contentFiles\Properties\launchSettings.json" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\app\app.module.js" target="content\ClientApp\app\app.module.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\app\app.module.js" target="contentFiles\ClientApp\app\app.module.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\app\components\app\app.component.js" target="content\ClientApp\app\components\app\app.component.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\app\components\app\app.component.js" target="contentFiles\ClientApp\app\components\app\app.component.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\app\components\fetchdata\fetchdata.component.js" target="content\ClientApp\app\components\fetchdata\fetchdata.component.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\app\components\fetchdata\fetchdata.component.js" target="contentFiles\ClientApp\app\components\fetchdata\fetchdata.component.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\app\components\home\home.component.js" target="content\ClientApp\app\components\home\home.component.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\app\components\home\home.component.js" target="contentFiles\ClientApp\app\components\home\home.component.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\app\components\navmenu\navmenu.component.js" target="content\ClientApp\app\components\navmenu\navmenu.component.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\app\components\navmenu\navmenu.component.js" target="contentFiles\ClientApp\app\components\navmenu\navmenu.component.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\boot-client.js" target="content\ClientApp\boot-client.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\boot-client.js" target="contentFiles\ClientApp\boot-client.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\boot-server.js" target="content\ClientApp\boot-server.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\boot-server.js" target="contentFiles\ClientApp\boot-server.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\dist\main-server.js" target="content\ClientApp\dist\main-server.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\dist\main-server.js" target="contentFiles\ClientApp\dist\main-server.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\webpack.config.js" target="content\webpack.config.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\webpack.config.js" target="contentFiles\webpack.config.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\webpack.config.vendor.js" target="content\webpack.config.vendor.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\webpack.config.vendor.js" target="contentFiles\webpack.config.vendor.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\app\app.module.js.map" target="content\ClientApp\app\app.module.js.map" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\app\app.module.js.map" target="contentFiles\ClientApp\app\app.module.js.map" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\app\components\app\app.component.js.map" target="content\ClientApp\app\components\app\app.component.js.map" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\app\components\app\app.component.js.map" target="contentFiles\ClientApp\app\components\app\app.component.js.map" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\app\components\fetchdata\fetchdata.component.js.map" target="content\ClientApp\app\components\fetchdata\fetchdata.component.js.map" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\app\components\fetchdata\fetchdata.component.js.map" target="contentFiles\ClientApp\app\components\fetchdata\fetchdata.component.js.map" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\app\components\home\home.component.js.map" target="content\ClientApp\app\components\home\home.component.js.map" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\app\components\home\home.component.js.map" target="contentFiles\ClientApp\app\components\home\home.component.js.map" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\app\components\navmenu\navmenu.component.js.map" target="content\ClientApp\app\components\navmenu\navmenu.component.js.map" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\app\components\navmenu\navmenu.component.js.map" target="contentFiles\ClientApp\app\components\navmenu\navmenu.component.js.map" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\boot-client.js.map" target="content\ClientApp\boot-client.js.map" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\boot-client.js.map" target="contentFiles\ClientApp\boot-client.js.map" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\boot-server.js.map" target="content\ClientApp\boot-server.js.map" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\boot-server.js.map" target="contentFiles\ClientApp\boot-server.js.map" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\app\components\app\app.component.html" target="content\ClientApp\app\components\app\app.component.html" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\app\components\app\app.component.html" target="contentFiles\ClientApp\app\components\app\app.component.html" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\app\components\fetchdata\fetchdata.component.html" target="content\ClientApp\app\components\fetchdata\fetchdata.component.html" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\app\components\fetchdata\fetchdata.component.html" target="contentFiles\ClientApp\app\components\fetchdata\fetchdata.component.html" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\app\components\home\home.component.html" target="content\ClientApp\app\components\home\home.component.html" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\app\components\home\home.component.html" target="contentFiles\ClientApp\app\components\home\home.component.html" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\app\components\navmenu\navmenu.component.html" target="content\ClientApp\app\components\navmenu\navmenu.component.html" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\app\components\navmenu\navmenu.component.html" target="contentFiles\ClientApp\app\components\navmenu\navmenu.component.html" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\app\components\app\app.component.css" target="content\ClientApp\app\components\app\app.component.css" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\app\components\app\app.component.css" target="contentFiles\ClientApp\app\components\app\app.component.css" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\app\components\navmenu\navmenu.component.css" target="content\ClientApp\app\components\navmenu\navmenu.component.css" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\ClientApp\app\components\navmenu\navmenu.component.css" target="contentFiles\ClientApp\app\components\navmenu\navmenu.component.css" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\css\site.css" target="content\wwwroot\css\site.css" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\css\site.css" target="contentFiles\wwwroot\css\site.css" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\css\site.min.css" target="content\wwwroot\css\site.min.css" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\css\site.min.css" target="contentFiles\wwwroot\css\site.min.css" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\dist\89889688147bd7575d6327160d64e760.svg" target="content\wwwroot\dist\89889688147bd7575d6327160d64e760.svg" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\dist\89889688147bd7575d6327160d64e760.svg" target="contentFiles\wwwroot\dist\89889688147bd7575d6327160d64e760.svg" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\dist\main-client.js" target="content\wwwroot\dist\main-client.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\dist\main-client.js" target="contentFiles\wwwroot\dist\main-client.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\dist\npm-debug.log" target="content\wwwroot\dist\npm-debug.log" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\dist\npm-debug.log" target="contentFiles\wwwroot\dist\npm-debug.log" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\dist\vendor-manifest.json" target="content\wwwroot\dist\vendor-manifest.json" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\dist\vendor-manifest.json" target="contentFiles\wwwroot\dist\vendor-manifest.json" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\dist\vendor.css" target="content\wwwroot\dist\vendor.css" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\dist\vendor.css" target="contentFiles\wwwroot\dist\vendor.css" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\dist\vendor.js" target="content\wwwroot\dist\vendor.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\dist\vendor.js" target="contentFiles\wwwroot\dist\vendor.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\dist\_placeholder.txt" target="content\wwwroot\dist\_placeholder.txt" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\dist\_placeholder.txt" target="contentFiles\wwwroot\dist\_placeholder.txt" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\favicon.ico" target="content\wwwroot\favicon.ico" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\favicon.ico" target="contentFiles\wwwroot\favicon.ico" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\images\banner1.svg" target="content\wwwroot\images\banner1.svg" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\images\banner1.svg" target="contentFiles\wwwroot\images\banner1.svg" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\images\banner2.svg" target="content\wwwroot\images\banner2.svg" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\images\banner2.svg" target="contentFiles\wwwroot\images\banner2.svg" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\images\banner3.svg" target="content\wwwroot\images\banner3.svg" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\images\banner3.svg" target="contentFiles\wwwroot\images\banner3.svg" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\images\banner4.svg" target="content\wwwroot\images\banner4.svg" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\images\banner4.svg" target="contentFiles\wwwroot\images\banner4.svg" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\js\site.js" target="content\wwwroot\js\site.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\js\site.js" target="contentFiles\wwwroot\js\site.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\js\site.min.js" target="content\wwwroot\js\site.min.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\js\site.min.js" target="contentFiles\wwwroot\js\site.min.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\.bower.json" target="content\wwwroot\lib\bootstrap\.bower.json" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\.bower.json" target="contentFiles\wwwroot\lib\bootstrap\.bower.json" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.css" target="content\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.css" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.css" target="contentFiles\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.css" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.css.map" target="content\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.css.map" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.css.map" target="contentFiles\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.css.map" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.min.css" target="content\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.min.css" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.min.css" target="contentFiles\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.min.css" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.min.css.map" target="content\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.min.css.map" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.min.css.map" target="contentFiles\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.min.css.map" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\dist\css\bootstrap.css" target="content\wwwroot\lib\bootstrap\dist\css\bootstrap.css" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\dist\css\bootstrap.css" target="contentFiles\wwwroot\lib\bootstrap\dist\css\bootstrap.css" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map" target="content\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map" target="contentFiles\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css" target="content\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css" target="contentFiles\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map" target="content\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map" target="contentFiles\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.eot" target="content\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.eot" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.eot" target="contentFiles\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.eot" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.svg" target="content\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.svg" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.svg" target="contentFiles\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.svg" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.ttf" target="content\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.ttf" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.ttf" target="contentFiles\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.ttf" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.woff" target="content\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.woff" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.woff" target="contentFiles\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.woff" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.woff2" target="content\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.woff2" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.woff2" target="contentFiles\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.woff2" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\dist\js\bootstrap.js" target="content\wwwroot\lib\bootstrap\dist\js\bootstrap.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\dist\js\bootstrap.js" target="contentFiles\wwwroot\lib\bootstrap\dist\js\bootstrap.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js" target="content\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js" target="contentFiles\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\dist\js\npm.js" target="content\wwwroot\lib\bootstrap\dist\js\npm.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\dist\js\npm.js" target="contentFiles\wwwroot\lib\bootstrap\dist\js\npm.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\LICENSE" target="content\wwwroot\lib\bootstrap\LICENSE" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\bootstrap\LICENSE" target="contentFiles\wwwroot\lib\bootstrap\LICENSE" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\jquery-validation-unobtrusive\.bower.json" target="content\wwwroot\lib\jquery-validation-unobtrusive\.bower.json" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\jquery-validation-unobtrusive\.bower.json" target="contentFiles\wwwroot\lib\jquery-validation-unobtrusive\.bower.json" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js" target="content\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js" target="contentFiles\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js" target="content\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js" target="contentFiles\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\jquery-validation\.bower.json" target="content\wwwroot\lib\jquery-validation\.bower.json" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\jquery-validation\.bower.json" target="contentFiles\wwwroot\lib\jquery-validation\.bower.json" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\jquery-validation\dist\additional-methods.js" target="content\wwwroot\lib\jquery-validation\dist\additional-methods.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\jquery-validation\dist\additional-methods.js" target="contentFiles\wwwroot\lib\jquery-validation\dist\additional-methods.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\jquery-validation\dist\additional-methods.min.js" target="content\wwwroot\lib\jquery-validation\dist\additional-methods.min.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\jquery-validation\dist\additional-methods.min.js" target="contentFiles\wwwroot\lib\jquery-validation\dist\additional-methods.min.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\jquery-validation\dist\jquery.validate.js" target="content\wwwroot\lib\jquery-validation\dist\jquery.validate.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\jquery-validation\dist\jquery.validate.js" target="contentFiles\wwwroot\lib\jquery-validation\dist\jquery.validate.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js" target="content\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js" target="contentFiles\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\jquery-validation\LICENSE.md" target="content\wwwroot\lib\jquery-validation\LICENSE.md" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\jquery-validation\LICENSE.md" target="contentFiles\wwwroot\lib\jquery-validation\LICENSE.md" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\jquery\.bower.json" target="content\wwwroot\lib\jquery\.bower.json" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\jquery\.bower.json" target="contentFiles\wwwroot\lib\jquery\.bower.json" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\jquery\dist\jquery.js" target="content\wwwroot\lib\jquery\dist\jquery.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\jquery\dist\jquery.js" target="contentFiles\wwwroot\lib\jquery\dist\jquery.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\jquery\dist\jquery.min.js" target="content\wwwroot\lib\jquery\dist\jquery.min.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\jquery\dist\jquery.min.js" target="contentFiles\wwwroot\lib\jquery\dist\jquery.min.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\jquery\dist\jquery.min.map" target="content\wwwroot\lib\jquery\dist\jquery.min.map" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\jquery\dist\jquery.min.map" target="contentFiles\wwwroot\lib\jquery\dist\jquery.min.map" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\jquery\LICENSE.txt" target="content\wwwroot\lib\jquery\LICENSE.txt" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\lib\jquery\LICENSE.txt" target="contentFiles\wwwroot\lib\jquery\LICENSE.txt" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\_references.js" target="content\wwwroot\_references.js" />
+    <file src="C:\Dell\MyExperiments\dotnetcoretests\MovieReviewStarterKit\src\MovieReviewStarterKit\wwwroot\_references.js" target="contentFiles\wwwroot\_references.js" />
+  </files>
+</package>
