@@ -52,6 +52,10 @@ What you get:
 
 ![About](http://myview.rahulnivi.net/wp-content/uploads/2016/12/10th.png)
 
+## For Live Changes
+
+Run webpack --watch from command line to make changes and see changes live
+
 ## Learn more about the generator
 
 You can learn more about this generator, its functionality and extensibilty at [Generator](http://myview.rahulnivi.net/asp-net-core-yeoman-generator/)  
